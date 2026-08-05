@@ -6,6 +6,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class HelloWorldApplicationTests {
 
+	//teste pull
+
 	@Test
 	void contextLoads() {
 	}
